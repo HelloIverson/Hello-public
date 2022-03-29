@@ -1,1 +1,42 @@
-
+body {
+  background: maroon;
+}
+hr {
+  color: bisque;
+}
+h1 {
+  color: orangered
+}
+h2 {
+  color:crimson;
+  font-family: cursive
+}
+h3 {
+  color: darksalmon;
+  font-family: cursive;
+  font-style: oblique;
+}
+h4 {
+  color:#de2424;
+  font-family: cursive;
+  font-style: oblique;
+  letter-spacing: 5px
+}
+h5 {
+  color:#e71b1b;
+  font-family: cursive;
+  font-style: oblique;
+  letter-spacing: 5px;
+  text-shadow: -2px 2px #94463e;
+}
+h6 {
+  background-color: black;
+  color: red;
+  font-family: cursive;
+  font-style: oblique;
+  font-size: 100px;
+  text-shadow: -4px 4px #ff1455;
+}
+p {
+  background-color: darkslategray;
+}
