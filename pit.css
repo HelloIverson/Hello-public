@@ -1,0 +1,10 @@
+body {
+  background-color:darkred;
+  color:red;
+  background-image: url(cave-4987891_1280.jpg)
+}
+
+p {
+  font-size:50px;
+  text-shadow: -3px 3px darkred;
+}
