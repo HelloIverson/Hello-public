@@ -8,5 +8,6 @@ img {
   border-radius:150px;
   border-color:brown;
   border-width:20px;
-  border-style: ridge
+  border-style: ridge;
+  align-content: center;
 }
